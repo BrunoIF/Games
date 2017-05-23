@@ -528,3 +528,198 @@ LogInit: Object subsystem initialized
 [2017.05.23-12.31.59:128][262]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/BallA09BA2E84D9FF009C237B68E47534EB9.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset'
 [2017.05.23-12.31.59:130][262]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset
 [2017.05.23-12.32.25:191][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.05.23-12.32.25:211][900]LogSavePackage: Save=20.48ms
+[2017.05.23-12.32.25:211][900]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Untitled_1_Auto1D36BCAD348D30D6204725A827E8A49BC.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.05.23-12.32.25:213][900]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.05.23-12.32.25:226][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.048
+[2017.05.23-12.32.25:226][900]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2017.05.23-12.38.18:830][833]LogEditorTransaction: Undo Modify Component(s)
+[2017.05.23-12.38.18:887][833]LogMaterial: Missing cached shader map for material BallMaterial, compiling. 
+[2017.05.23-12.38.18:906][833]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.38.20:003][869]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.38.20:003][869]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.38.20:003][869]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.38.30:348][210]LogEditorTransaction: Undo Modify Component(s)
+[2017.05.23-12.38.30:391][210]LogMaterial: Missing cached shader map for material BallMaterial, compiling. 
+[2017.05.23-12.38.30:417][210]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.38.31:239][237]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.38.31:239][237]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.38.31:239][237]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.42.25:995][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.018
+[2017.05.23-12.42.25:997][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Coin] ([1] browsable assets)...
+[2017.05.23-12.42.26:079][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Coin.Coin]
+[2017.05.23-12.42.26:079][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Coin]
+[2017.05.23-12.42.26:079][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-12.42.26:115][768]LogSavePackage: Save=32.04ms
+[2017.05.23-12.42.26:115][768]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin_Auto225CB28544A31D108564F348593A06C22.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto2.uasset'
+[2017.05.23-12.42.26:117][768]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto2.uasset
+[2017.05.23-12.42.26:117][768]LogFileHelpers: Auto-saving content packages took 0.121
+[2017.05.23-12.43.50:295][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset" SILENT=true
+[2017.05.23-12.43.50:312][596]LogSavePackage: Save=15.32ms
+[2017.05.23-12.43.50:312][596]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin79960B15434BE6545E0193AF7171C190.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset'
+[2017.05.23-12.43.50:315][596]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset
+[2017.05.23-12.43.51:150][627]BlueprintLog: New page: Compile Coin
+[2017.05.23-12.44.01:475][789]LogMaterial: Missing cached shader map for material BallMaterial, compiling. 
+[2017.05.23-12.44.01:493][789]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.44.01:514][789]LogMaterial: Missing cached shader map for material BallMaterial, compiling. 
+[2017.05.23-12.44.01:533][789]LogMaterial: Missing cached shader map for material BallMaterial, compiling. 
+[2017.05.23-12.44.01:548][789]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.50.34:613][155]BlueprintLog: New page: Compile Coin
+[2017.05.23-12.53.16:034][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.011
+[2017.05.23-12.53.16:035][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BallMaterial] ([1] browsable assets)...
+[2017.05.23-12.53.16:097][437]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BallMaterial.BallMaterial]
+[2017.05.23-12.53.16:097][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/BallMaterial]
+[2017.05.23-12.53.16:097][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BallMaterial" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/BallMaterial_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-12.53.16:124][437]LogSavePackage: Save=22.78ms
+[2017.05.23-12.53.16:124][437]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/BallMaterial_Auto342822CDD4659EC675B49E98F386C6BE1.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/BallMaterial_Auto3.uasset'
+[2017.05.23-12.53.16:125][437]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/BallMaterial_Auto3.uasset
+[2017.05.23-12.53.16:126][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Coin] ([1] browsable assets)...
+[2017.05.23-12.53.16:173][437]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Coin.Coin]
+[2017.05.23-12.53.16:173][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Coin]
+[2017.05.23-12.53.16:173][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-12.53.16:190][437]LogSavePackage: Save=13.27ms
+[2017.05.23-12.53.16:190][437]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin_Auto3A3A439D744F692CD0685428AE1EE2C4F.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto3.uasset'
+[2017.05.23-12.53.16:192][437]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Coin_Auto3.uasset
+[2017.05.23-12.53.16:192][437]LogFileHelpers: Auto-saving content packages took 0.157
+[2017.05.23-12.54.30:887][379]BlueprintLog: New page: Compile Coin
+[2017.05.23-12.54.43:761][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset" SILENT=true
+[2017.05.23-12.54.43:779][904]LogSavePackage: Save=14.64ms
+[2017.05.23-12.54.43:779][904]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin35391F5543BDDA83C5A959B092E03C33.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset'
+[2017.05.23-12.54.43:782][904]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset
+[2017.05.23-12.54.50:878][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.05.23-12.56.00:221][502]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-12.56.00:236][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-12.56.00:236][502]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 6:56:00 AM)
+[2017.05.23-12.56.00:236][502]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-12.56.00:238][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001936s)
+[2017.05.23-12.56.00:238][502]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-12.56.00:239][502]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2017.05.23-12.56.00:239][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002701s)
+[2017.05.23-12.56.00:320][502]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-12.56.00:322][502]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-09.56.00
+[2017.05.23-12.56.00:323][502]LogWorld: Bringing up level for play took: 0.001201
+[2017.05.23-12.56.00:323][502]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.593
+[2017.05.23-12.58.01:692][879]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.01:788][879]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.01:797][879]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.10:883][886]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.10:892][886]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.10:893][886]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.11:797][932]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.11:797][932]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.11:797][932]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.14:388][166]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.14:397][166]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.14:424][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.15:290][212]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.15:290][212]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.15:290][212]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.17:036][381]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.17:045][381]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.17:076][381]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.18:917][563]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.18:926][563]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.18:955][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.19:416][589]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.19:429][589]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.19:458][589]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.20:329][662]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.20:343][662]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.20:374][662]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.21:247][706]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.21:247][706]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.21:247][706]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.22:237][802]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.22:246][802]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.22:274][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.23:143][846]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.23:143][846]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.23:143][846]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.25:276][999]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.25:285][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.25:316][999]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.26:184][ 43]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.26:184][ 43]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.26:184][ 43]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.26:973][104]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.26:982][104]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.27:011][104]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.27:842][146]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.27:842][146]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.27:842][146]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.29:395][262]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.29:404][262]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.29:431][262]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.30:345][308]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.30:346][308]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.30:346][308]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.31:293][365]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.31:303][365]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.31:329][365]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.31:963][401]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.31:975][401]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.32:000][401]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.32:602][438]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.32:616][438]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.32:642][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.33:832][547]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.33:841][547]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.33:872][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.34:761][592]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.34:761][592]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.34:761][592]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.36:642][698]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.36:651][698]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.36:681][698]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.37:547][742]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.37:547][742]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.37:547][742]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.41:243][ 50]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.41:252][ 50]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.41:278][ 50]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2017.05.23-12.58.42:158][ 95]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-12.58.42:158][ 95]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.42:158][ 95]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-12.58.55:192][868]LogMaterialEditor: Saving and Compiling material CoinMaterial
+[2017.05.23-12.58.55:630][868]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.55:648][868]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.55:663][868]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.55:691][868]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-12.58.55:708][868]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-12.58.57:331][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CoinMaterial" FILE="D:/3EMIA/Games/roller_16-05-17/Content/CoinMaterial.uasset" SILENT=true
+[2017.05.23-12.58.57:341][868]LogSavePackage: Save=9.44ms
+[2017.05.23-12.58.57:341][868]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/CoinMaterial1A6D1D864C2954DC79734BAA009A23C8.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/CoinMaterial.uasset'
+[2017.05.23-12.58.57:343][868]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/CoinMaterial.uasset
+[2017.05.23-12.58.57:348][868]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.05.23-12.58.57:348][868]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-12.58.57:348][868]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.05.23-12.59.03:835][163]BlueprintLog: New page: Compile Coin
+[2017.05.23-12.59.04:876][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset" SILENT=true
+[2017.05.23-12.59.04:896][194]LogSavePackage: Save=14.73ms
+[2017.05.23-12.59.04:896][194]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin2BE6671A4EC434D56DFAF6878949E8C8.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset'
+[2017.05.23-12.59.04:900][194]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset
+[2017.05.23-12.59.06:898][259]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-12.59.06:907][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-12.59.06:907][259]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 6:59:06 AM)
+[2017.05.23-12.59.06:907][259]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-12.59.06:909][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001700s)
+[2017.05.23-12.59.06:910][259]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-12.59.06:910][259]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2017.05.23-12.59.06:910][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002738s)
+[2017.05.23-12.59.06:955][259]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-12.59.06:958][259]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-09.59.06
+[2017.05.23-12.59.06:958][259]LogWorld: Bringing up level for play took: 0.001336
+[2017.05.23-12.59.06:959][259]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.032
+[2017.05.23-13.00.05:625][800]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.00.05:634][800]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-13.00.05:636][800]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.00.05:645][800]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-13.00.06:975][870]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-13.00.06:975][870]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-13.00.06:975][870]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-13.00.13:251][256]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.00.13:263][256]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-13.00.14:144][302]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.05.23-13.00.14:144][302]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.05.23-13.00.14:144][302]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.05.23-13.03.58:089][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
