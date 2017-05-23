@@ -723,3 +723,155 @@ LogInit: Object subsystem initialized
 [2017.05.23-13.00.14:144][302]MaterialEditorStats: Info Vertex shader: 29 instructions
 [2017.05.23-13.00.14:144][302]MaterialEditorStats: Info Texture samplers: 0/16
 [2017.05.23-13.03.58:089][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.05.23-13.03.58:112][288]LogSavePackage: Save=22.39ms
+[2017.05.23-13.03.58:112][288]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Untitled_1_Auto4FC08A0B745734AB94F1054A684E06286.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2017.05.23-13.03.58:114][288]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2017.05.23-13.03.58:115][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.039
+[2017.05.23-13.03.58:115][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2017.05.23-13.36.10:248][902]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.36.10:266][902]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-13.36.10:283][902]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.36.10:301][902]LogMaterial: Missing cached shader map for material CoinMaterial, compiling. 
+[2017.05.23-13.36.10:314][902]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.23-13.37.30:375][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.017
+[2017.05.23-13.37.30:377][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CoinMaterial] ([1] browsable assets)...
+[2017.05.23-13.37.30:424][727]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CoinMaterial.CoinMaterial]
+[2017.05.23-13.37.30:424][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/CoinMaterial]
+[2017.05.23-13.37.30:424][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CoinMaterial" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/CoinMaterial_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-13.37.30:437][727]LogSavePackage: Save=9.74ms
+[2017.05.23-13.37.30:437][727]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/CoinMaterial_Auto5B759F8A94E1DCF38660248B7F0734EE1.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/CoinMaterial_Auto5.uasset'
+[2017.05.23-13.37.30:438][727]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/CoinMaterial_Auto5.uasset
+[2017.05.23-13.37.30:438][727]LogFileHelpers: Auto-saving content packages took 0.063
+[2017.05.23-13.41.47:936][479]BlueprintLog: New page: Compile Coin
+[2017.05.23-13.41.48:804][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset" SILENT=true
+[2017.05.23-13.41.48:823][503]LogSavePackage: Save=15.03ms
+[2017.05.23-13.41.48:823][503]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Coin217BCDB340EF10B812F232AB9211B3FF.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset'
+[2017.05.23-13.41.48:826][503]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset
+[2017.05.23-13.41.51:682][600]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-13.41.51:691][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-13.41.51:691][600]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 7:41:51 AM)
+[2017.05.23-13.41.51:691][600]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-13.41.51:693][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001905s)
+[2017.05.23-13.41.51:693][600]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-13.41.51:694][600]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2017.05.23-13.41.51:694][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002752s)
+[2017.05.23-13.41.51:737][600]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-13.41.51:740][600]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-10.41.51
+[2017.05.23-13.41.51:740][600]LogWorld: Bringing up level for play took: 0.001423
+[2017.05.23-13.41.51:741][600]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.779
+[2017.05.23-13.44.54:816][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset" SILENT=true
+[2017.05.23-13.44.54:835][611]LogSavePackage: Save=16.25ms
+[2017.05.23-13.44.54:835][611]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/CoinE3FB2FB648A2D1A789A9909ECEF0845F.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset'
+[2017.05.23-13.44.54:838][611]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Coin.uasset
+[2017.05.23-13.44.55:795][725]BlueprintLog: New page: Compile Coin
+[2017.05.23-13.47.51:257][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.05.23-13.47.51:280][541]LogSavePackage: Save=22.13ms
+[2017.05.23-13.47.51:280][541]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Untitled_1_Auto6EADE924343E789CA14EA51A6C15CC18B.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2017.05.23-13.47.51:281][541]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto6.umap
+[2017.05.23-13.47.51:282][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.039
+[2017.05.23-13.47.51:282][541]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2017.05.23-13.47.51:283][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball] ([1] browsable assets)...
+[2017.05.23-13.47.51:324][541]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball.Ball]
+[2017.05.23-13.47.51:324][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball]
+[2017.05.23-13.47.51:324][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-13.47.51:359][541]LogSavePackage: Save=19.02ms
+[2017.05.23-13.47.51:359][541]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Ball_Auto680950357429B4AECAAEC5894561F7EA7.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto6.uasset'
+[2017.05.23-13.47.51:361][541]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto6.uasset
+[2017.05.23-13.47.51:361][541]LogFileHelpers: Auto-saving content packages took 0.078
+[2017.05.23-13.52.10:497][334]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.23-13.54.03:392][838]BlueprintLog: New page: Compile Ball
+[2017.05.23-13.54.05:001][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset" SILENT=true
+[2017.05.23-13.54.05:026][  8]LogSavePackage: Save=22.00ms
+[2017.05.23-13.54.05:026][  8]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Ball9DC6599D46B7CD3F5CD5A398F08C1E19.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset'
+[2017.05.23-13.54.05:029][  8]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset
+[2017.05.23-13.54.06:394][ 88]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-13.54.06:404][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-13.54.06:404][ 88]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 7:54:06 AM)
+[2017.05.23-13.54.06:404][ 88]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-13.54.06:407][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003333s)
+[2017.05.23-13.54.06:407][ 88]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-13.54.06:408][ 88]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2017.05.23-13.54.06:408][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004062s)
+[2017.05.23-13.54.06:496][ 88]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-13.54.06:500][ 88]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-10.54.06
+[2017.05.23-13.54.06:500][ 88]LogWorld: Bringing up level for play took: 0.002212
+[2017.05.23-13.54.06:501][ 88]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.505
+[2017.05.23-13.54.13:187][395]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-13.54.13:199][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-13.54.13:199][395]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 7:54:13 AM)
+[2017.05.23-13.54.13:199][395]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-13.54.13:201][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001948s)
+[2017.05.23-13.54.13:202][395]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-13.54.13:202][395]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2017.05.23-13.54.13:202][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003011s)
+[2017.05.23-13.54.13:276][395]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-13.54.13:279][395]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-10.54.13
+[2017.05.23-13.54.13:279][395]LogWorld: Bringing up level for play took: 0.001152
+[2017.05.23-13.54.13:279][395]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.274
+[2017.05.23-13.54.20:032][702]Cmd: SELECT NONE
+[2017.05.23-13.54.31:562][107]LogEditorViewport: Clicking on Actor (LMB): Coin_C (Coin)
+[2017.05.23-13.54.37:982][330]Cmd: DUPLICATE
+[2017.05.23-13.54.37:982][330]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.40:573][415]Cmd: DUPLICATE
+[2017.05.23-13.54.40:573][415]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.42:439][477]Cmd: DUPLICATE
+[2017.05.23-13.54.42:439][477]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.45:980][598]Cmd: DUPLICATE
+[2017.05.23-13.54.45:980][598]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.48:570][685]Cmd: DUPLICATE
+[2017.05.23-13.54.48:570][685]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.50:555][753]Cmd: DUPLICATE
+[2017.05.23-13.54.50:555][753]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.53:634][856]Cmd: DUPLICATE
+[2017.05.23-13.54.53:634][856]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.54.57:686][993]Cmd: DUPLICATE
+[2017.05.23-13.54.57:687][993]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.00:469][ 85]Cmd: DUPLICATE
+[2017.05.23-13.55.00:469][ 85]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.03:791][196]Cmd: DUPLICATE
+[2017.05.23-13.55.03:791][196]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.07:634][326]Cmd: DUPLICATE
+[2017.05.23-13.55.07:634][326]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.10:680][428]Cmd: DUPLICATE
+[2017.05.23-13.55.10:680][428]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.12:526][488]Cmd: DUPLICATE
+[2017.05.23-13.55.12:526][488]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.14:604][559]Cmd: DUPLICATE
+[2017.05.23-13.55.14:604][559]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.17:055][641]Cmd: DUPLICATE
+[2017.05.23-13.55.17:055][641]Cmd: ACTOR DUPLICATE
+[2017.05.23-13.55.22:854][837]LogTemp: Repeting last play command: Selected Viewport
+[2017.05.23-13.55.22:865][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.23-13.55.22:865][837]PIE: New page: PIE session: Untitled_1 (May 23, 2017, 7:55:22 AM)
+[2017.05.23-13.55.22:865][837]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.23-13.55.22:869][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004214s)
+[2017.05.23-13.55.22:870][837]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.23-13.55.22:870][837]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2017.05.23-13.55.22:870][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004917s)
+[2017.05.23-13.55.22:954][837]LogLoad: Game class is 'GameModeBase'
+[2017.05.23-13.55.22:957][837]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.23-10.55.22
+[2017.05.23-13.55.22:958][837]LogWorld: Bringing up level for play took: 0.002081
+[2017.05.23-13.55.22:958][837]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.049
+[2017.05.23-13.55.34:278][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.05.23-13.55.49:434][817]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.05.23-13.55.57:134][849]LogTextFormatter:Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2017.05.23-13.58.49:072][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.05.23-13.58.49:104][722]LogSavePackage: Save=31.86ms
+[2017.05.23-13.58.49:104][722]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Untitled_1_Auto74E5C92024510A70FDE71B48253C7545C.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto7.umap'
+[2017.05.23-13.58.49:104][722]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Temp/Untitled_1_Auto7.umap
+[2017.05.23-13.58.49:105][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.048
+[2017.05.23-13.58.49:105][722]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2017.05.23-13.58.49:107][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball] ([1] browsable assets)...
+[2017.05.23-13.58.49:150][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball.Ball]
+[2017.05.23-13.58.49:150][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball]
+[2017.05.23-13.58.49:150][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball" FILE="D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2017.05.23-13.58.49:188][722]LogSavePackage: Save=20.93ms
+[2017.05.23-13.58.49:188][722]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Ball_Auto75CA82D624BE01385DBD4DB95C236EA88.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto7.uasset'
+[2017.05.23-13.58.49:190][722]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Saved/Autosaves/Game/Ball_Auto7.uasset
+[2017.05.23-13.58.49:190][722]LogFileHelpers: Auto-saving content packages took 0.084
+[2017.05.23-14.09.25:549][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset" SILENT=true
+[2017.05.23-14.09.25:566][259]LogSavePackage: Save=13.64ms
+[2017.05.23-14.09.25:566][259]LogSavePackage: Moving 'D:/3EMIA/Games/roller_16-05-17/Saved/Ball7575F72245AB518C9FB014A8BE5F1C14.tmp' to 'D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset'
+[2017.05.23-14.09.25:568][259]LogSavePackage:Display: Finished SavePackage D:/3EMIA/Games/roller_16-05-17/Content/Ball.uasset
+[2017.05.23-14.09.26:636][386]BlueprintLog: New page: Compile Ball
+[2017.05.23-14.09.38:075][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="D:/3EMIA/Games/roller_16-05-17/Content/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
